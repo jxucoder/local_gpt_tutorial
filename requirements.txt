@@ -1,0 +1,11 @@
+huggingface
+jupyter
+transformers
+urllib3==1.26.15
+torchvision
+torch
+langchain
+llama_index
+sentence_transformers
+pygpt4all
+datasets
